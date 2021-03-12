@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IntricationQuantique
+- 👋 Hi, I’m @IntricationQuantique, a young French novice programmer
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning something haha
-- 💞️ I’m looking to collaborate on banano's project
+- ⚙️ I’m looking to create some games
 
 
 <!---
