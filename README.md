@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IntricationQuantique, a young French programmer
-- 👀 I’m interested in blockchain technologies
-- 🌱 I have some skills in HTML5, CSS and python
+- 👋 Hi, I’m @IntricationQuantique, a young French engineering student in photonics.
+- 👀 I’m interested in quantum technologies
+- 🌱 I have some skills in HTML5, CSS, python, Ocaml, C, Matlab and Latex.
  
 
 
